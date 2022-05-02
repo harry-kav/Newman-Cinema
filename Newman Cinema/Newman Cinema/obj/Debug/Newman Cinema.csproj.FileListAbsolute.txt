@@ -1,0 +1,96 @@
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csprojAssemblyReference.cache
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe.config
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.pdb
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csprojAssemblyReference.cache
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.AdminLogin.resources
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MainMenu.resources
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.LogIn.resources
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Properties.Resources.resources
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.SignUp.resources
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.GenerateResource.cache
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.CoreCompileInputs.cache
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.exe
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.pdb
+\\newmancollege.net\DFSR\StudentAreas_A\Enrolled2018\T0063112\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MovieSelect.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe.config
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.pdb
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csprojAssemblyReference.cache
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.AdminLogin.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MainMenu.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.LogIn.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MovieSelect.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Properties.Resources.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.SignUp.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.GenerateResource.cache
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.CoreCompileInputs.cache
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.exe
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.pdb
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.exe
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.pdb
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe.config
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.pdb
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.AdminLogin.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MainMenu.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.LogIn.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MovieSelect.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Properties.Resources.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Screen1.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.SignUp.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Screen2.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Coming_Soon.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe.config
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.pdb
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csprojAssemblyReference.cache
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.AdminLogin.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Coming_Soon.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MainMenu.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.LogIn.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MovieSelect.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Properties.Resources.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Screen1.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Screen2.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.SignUp.resources
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.GenerateResource.cache
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.CoreCompileInputs.cache
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.exe
+C:\Users\T0063112\OneDrive - Cardinal Newman College\Computer Science\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.pdb
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.exe
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.pdb
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe.config
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.pdb
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.AdminLogin.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Coming_Soon.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MainMenu.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.LogIn.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MovieSelect.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Properties.Resources.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Screen1.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Screen2.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.SignUp.resources
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\Newman Cinema (2)\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe.config
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.exe
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\bin\Debug\Newman Cinema.pdb
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.AdminLogin.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Coming_Soon.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MainMenu.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.LogIn.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.MovieSelect.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Properties.Resources.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Screen1.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.Screen2.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman_Cinema.SignUp.resources
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.exe
+C:\Users\Harry\Desktop\Newman Cinema\Newman Cinema\Newman Cinema\Newman Cinema\obj\Debug\Newman Cinema.pdb
